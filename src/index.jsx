@@ -131,7 +131,7 @@ MenuProvider.propTypes = {
 
 MenuProvider.defaultProps = {
   openByDefault: false,
-  width: '250px',
+  width: '100vw',
   direction: 'left',
   animation: 'slide'
 };
